@@ -1,5 +1,9 @@
 import java.util.Scanner; //Needed for user input
 
+// In this lab, you will write methods to create and print 2D arrays. The user will enter the
+// dimensions and a default value for their array, and your methods will be used to actually
+// declare, initialize, and print the desired array.
+
 public class SunshineArray {
    
   public static void main(String[] args) {
