@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+// Description: You will build a program that will ask the user to enter two numbers to be used as
+// the dimensions of their multiplication table (one is rows and the other is columns). Based on
+// these input values, your program will print the multiplication table to the console in a well
+// formatted way so it is easy to read.
+
 public class LoopinTimes  {
   public static void main(String [] args)  { 
     Scanner keyboardReader = new Scanner(System.in);
