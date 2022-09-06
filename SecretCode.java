@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-// Description: You will build a program that takes in a secret code from the user in the form of a
-// five-letter word, and encrypts it using a secret key that the user also provides. You will then
-// display the secret encrypted word back to the user.
-
 
 public class SecretCode {
   public static void main(String[] args) {
