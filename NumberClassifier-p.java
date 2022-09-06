@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
 
+// Description: You will build a program that will take an integer (0 or greater) from the user and
+// classify it based on a set of criteria. Different numbers are classified in different ways, so you will
+// need to have some decision making in your code.
+
 public class NumberClassifier  {
   public static void main(String [] args)  { 
     Scanner keyboardReader = new Scanner(System.in);
