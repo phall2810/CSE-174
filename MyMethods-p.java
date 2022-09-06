@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+// Description:You will be writing a collection of methods that take parameters and return results
+// based on the method descriptions. Your code WILL NOT have a main method, as your methods
+// will be called by the main method written by the instructors, and you won’t know what is in it.
+// Essentially you will need to focus on ensuring that your methods work in all cases.
+
 public class MyMethods {
   
   public static boolean isVowel(char vowel1) {
